@@ -3,21 +3,23 @@ The Pytorch implementation of the paper "MTFusion: A semantic segmentation-guide
 
 This code will be available upon acceptance of the paper.
 
-  #🌟 Update
+##🌟 Update
     [2025/9] The manuscript has been submitted to Infrared Physics & Technology.
 
-  #📚 Abstract
-    #🚀 Training
-      1. Virtual Environment
+##📚 Abstract
 
-        # create virtual environment
-        conda create -n TMFusion python=3.10.0
-        conda activate TMFusion
-        pip install mamba_ssm==2.2.4
-        pip install causal_conv1d==1.4.0
+###🚀 Training
+**1. Virtual Environment**
+```
+# create virtual environment
+conda create -n TMFusion python=3.10.0
+conda activate TMFusion
+pip install mamba_ssm==2.2.4
+pip install causal_conv1d==1.4.0
+```
 
-  #📝 Citation
+##📝 Citation
   
-  #😊 Any question
+##😊 Any question
 
-  #💡Acknowledgements
+##💡Acknowledgements
