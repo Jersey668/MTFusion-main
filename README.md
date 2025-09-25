@@ -9,7 +9,7 @@ This code will be available upon acceptance of the paper.
 ## 📚 Abstract
 
 ### 🚀 Training
-**1. Virtual Environment**
+** Virtual Environment**
 ```
 # create virtual environment
 conda create -n TMFusion python=3.10.0
